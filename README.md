@@ -11,14 +11,15 @@ Version 1.0
 
 =====================================================================
 
-★ Introduction ★
+➤ Introduction
+
 This is an AutoHotkey v1 script for Windows PCs (not tested on Windows 11 or Linux, but it might work). It translates ZUIKI Mascon input into keyboard key presses.  
 With this script, you can play games using your ZUIKI Mascon even if they don't natively support it as an input device.  
 The script consists of a .ahk file (the script itself) and a .ini configuration file.  
 It has been tested with PCSX2, DuckStation, other emulators, as well as PC games (Steam).  
 There should be no need to modify the script file. The configuration file comes pre-configured for "Densha de Go! Professional 2" on PCSX2, providing a sample setup.
 
-★ How to use ★
+➤ How to use
 
 ● Install AutoHotkey v1 (it must be v1; this script does not work with v2)
 
@@ -42,7 +43,7 @@ There should be no need to modify the script file. The configuration file comes 
 
 ● To terminate the script just close the running instance of AutoHotkey
 
-★ Troubleshooting ★
+➤ Troubleshooting
 
 ● Ensure all other joysticks and gamepads are disconnected from your PC
 
@@ -58,6 +59,6 @@ There should be no need to modify the script file. The configuration file comes 
 
 ● For some games, you may need to move the Mascon more slowly, as certain games/emulators do not handle rapid multiple key inputs well
 
-● If you need to change the name or location of the .ini file, open the .ahk file with a text editor and modify this line: ➤ INI_FILE := A_ScriptDir . "\zuiki_config.ini"
+● If you need to change the name or location of the .ini file, open the .ahk file with a text editor and modify this line: INI_FILE := A_ScriptDir . "\zuiki_config.ini"
 
 ● If "EnableHotkeys=true" is set, be aware that these hotkeys might conflict with hotkeys in your emulator or game. In that case, consider changing the hotkeys in the game/emulator
