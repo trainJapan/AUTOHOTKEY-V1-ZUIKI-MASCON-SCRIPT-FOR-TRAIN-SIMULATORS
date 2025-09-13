@@ -37,9 +37,9 @@ There should be no need to modify the script file. The configuration file comes 
 
 ● If there is an issue, the script will show a notification. Otherwise, it will display a message confirming that it is running. Click "OK"
 
-● Open your game and play!
+● Start your game and play!
 
-● Still have a keyboard ready since sometimes a game might start you in B8 while your actual Mascon is in EB currently. Use you keyboard to sync ingame notch position with actual notch position
+● Make sure to have a keyboard ready since sometimes a game might start you in B8 while your actual Mascon is in EB currently. Use you keyboard to sync ingame notch position with actual notch position
 
 ● To terminate the script just close the running instance of AutoHotkey
 
@@ -63,4 +63,6 @@ There should be no need to modify the script file. The configuration file comes 
 
 ● If you need to change the name or location of the .ini file, open the .ahk file with a text editor and modify this line: INI_FILE := A_ScriptDir . "\zuiki_config.ini"
 
-● If "EnableHotkeys=true" is set, be aware that these hotkeys might conflict with hotkeys in your emulator or game. In that case, consider changing the hotkeys in the game/emulator
+● If "EnableHotkeys=true" is set, be aware that these hotkeys might conflict with hotkeys in your emulator or game. In that case, consider changing the hotkeys in the game/emulator or setting EnableHotkeys=false
+
+● Be aware that the arrow keys on the ZUIKI cannot be used currently
