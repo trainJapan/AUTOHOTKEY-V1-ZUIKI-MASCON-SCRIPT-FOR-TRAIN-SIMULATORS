@@ -2,9 +2,13 @@
 Translates ZUIKI Mascon input into keyboard input.
 
 =====================================================================
+
 README
+
 AUTOHOTKEY V1 ZUIKI MASCON SCRIPT FOR TRAIN SIMULATORS 🚅🚃🚃🚃🚃🕹️
+
 Version 1.0
+
 =====================================================================
 
 ★ Introduction ★
@@ -15,6 +19,7 @@ It has been tested with PCSX2, DuckStation, other emulators, as well as PC games
 There should be no need to modify the script file. The configuration file comes pre-configured for "Densha de Go! Professional 2" on PCSX2, providing a sample setup.
 
 ★ How to use ★
+
 ● Install AutoHotkey v1 (it must be v1; this script does not work with v2)
 
 ● Copy the .ahk script file and the .ini configuration file into the same folder. Do not rename the .ini file, as the script looks for "zuiki_config.ini" in the same folder
@@ -38,6 +43,7 @@ There should be no need to modify the script file. The configuration file comes 
 ● To terminate the script just close the running instance of AutoHotkey
 
 ★ Troubleshooting ★
+
 ● Ensure all other joysticks and gamepads are disconnected from your PC
 
 ● Change the "JoystickNumber" in the .ini file until the script can detect your ZUIKI. Try the suggested numbers first, starting with 1
