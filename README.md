@@ -5,7 +5,7 @@ Translates ZUIKI Mascon input into keyboard input.
 
 README
 
-AUTOHOTKEY V1 ZUIKI MASCON SCRIPT FOR TRAIN SIMULATORS 🚅🚃🚃🚃🚃🕹️
+AUTOHOTKEY V1 ZUIKI MASCON SCRIPT FOR TRAIN SIMULATORS 🚅🕹️
 
 Version 1.0
 
@@ -18,6 +18,7 @@ With this script, you can play games using your ZUIKI Mascon even if they don't 
 The script consists of a .ahk file (the script itself) and a .ini configuration file.  
 It has been tested with PCSX2, DuckStation, other emulators, as well as PC games (Steam).  
 There should be no need to modify the script file. The configuration file comes pre-configured for "Densha de Go! Professional 2" on PCSX2, providing a sample setup.
+
 
 ➤ How to use
 
@@ -42,6 +43,7 @@ There should be no need to modify the script file. The configuration file comes 
 ● Still have a keyboard ready since sometimes a game might start you in B8 while your actual Mascon is in EB currently. Use you keyboard to sync ingame notch position with actual notch position
 
 ● To terminate the script just close the running instance of AutoHotkey
+
 
 ➤ Troubleshooting
 
