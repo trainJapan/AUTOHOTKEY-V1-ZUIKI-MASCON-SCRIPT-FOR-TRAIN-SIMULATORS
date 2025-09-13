@@ -65,4 +65,4 @@ There should be no need to modify the script file. The configuration file comes 
 
 ● If "EnableHotkeys=true" is set, be aware that these hotkeys might conflict with hotkeys in your emulator or game. In that case, consider changing the hotkeys in the game/emulator or setting EnableHotkeys=false
 
-● Be aware that the arrow keys on the ZUIKI cannot be used currently
+● Be aware that the arrow keys (D-pad) on the ZUIKI cannot be used currently with this script
