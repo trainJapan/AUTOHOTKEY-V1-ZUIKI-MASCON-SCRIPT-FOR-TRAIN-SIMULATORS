@@ -18,7 +18,7 @@ It has been tested with PCSX2, DuckStation, other emulators, as well as PC games
 There should be no need to modify the script file. The configuration file comes pre-configured for "Densha de Go! Professional 2" on PCSX2, providing a sample setup.
 
 
-
+  
   ➤➤ How to use
 
 ● Install AutoHotkey v1 (it must be v1; this script does not work with v2)
@@ -44,7 +44,7 @@ There should be no need to modify the script file. The configuration file comes 
 ● To terminate the script just close the running instance of AutoHotkey
 
 
-
+  
   ➤➤ Troubleshooting
 
 ● Ensure all other joysticks and gamepads are disconnected from your PC
