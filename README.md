@@ -25,7 +25,7 @@ There should be no need to modify the script file. The configuration file comes 
 
 ● Copy the .ahk script file and the .ini configuration file into the same folder. Do not rename the .ini file, as the script looks for "zuiki_config.ini" in the same folder
 
-● It is recommended to create separate folders for different games so you don't need to change the .ini file when switching games
+● It is recommended to create separate folders for different games so you don't need to edit the .ini file when switching games
 
 ● Make sure your game/emulator is set up correctly and accepts keyboard inputs. Disconnect all other gamepads and joysticks except for the ZUIKI Mascon
 
