@@ -49,6 +49,8 @@ There should be no need to modify the script file. The configuration file comes 
 
 ● Ensure all other joysticks and gamepads are disconnected from your PC
 
+● This script sends keys globally, ensure correct window has focus
+
 ● Change the "JoystickNumber" in the .ini file until the script can detect your ZUIKI. Try the suggested numbers first, starting with 1
 
 ● Verify that controls are configured correctly for your game, and that your emulator accepts keyboard inputs. Try disabling all other forms of input like SDL Input, XInput or DInput
