@@ -11,7 +11,7 @@ Version 1.0
 
   ➤➤ Introduction
 
-This is an AutoHotkey v1 script for Windows PCs (not tested on Windows 11 or Linux, but it might work). It translates ZUIKI Mascon input into keyboard key presses.  
+This is an AutoHotkey v1 script for Windows PCs. It translates ZUIKI Mascon input into keyboard key presses.  
 With this script, you can play games using your ZUIKI Mascon even if they don't natively support it as an input device.  
 The script consists of a .ahk file (the script itself) and a .ini configuration file.  
 It has been tested with PCSX2, DuckStation, other emulators, as well as PC games (Steam).  
