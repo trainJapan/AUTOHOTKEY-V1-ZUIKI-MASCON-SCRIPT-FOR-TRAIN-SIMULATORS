@@ -39,7 +39,7 @@ There should be no need to modify the script file. The configuration file comes 
 
 ● Start your game and play!
 
-● Make sure to have a keyboard ready since sometimes a game might start you in B8 while your actual Mascon is in EB currently. Use you keyboard to sync ingame notch position with actual notch position
+● Make sure to have a keyboard ready to navigate the ingame menu and because a game might start you in B8 while your actual Mascon is, for example, in EB currently. Use you keyboard to sync ingame notch position with the actual notch position
 
 ● To terminate the script, close the running instance of AutoHotkey or press the Hotkey if those are activated in the .ini
 
