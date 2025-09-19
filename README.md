@@ -3,15 +3,15 @@ Translates ZUIKI Mascon input into keyboard input.
 
 =====================================================================
 
-AUTOHOTKEY V1 ZUIKI MASCON SCRIPT FOR TRAIN SIMULATORS 🚅🕹️
+🔴 AUTOHOTKEY V1 ZUIKI MASCON SCRIPT FOR TRAIN SIMULATORS 🔴
 
-Version 1.0
+Script Version 1.0 - September 2025
 
 =====================================================================
 
   ➤➤ Introduction
 
-This is an AutoHotkey v1 script for Windows PCs. It translates ZUIKI Mascon input into keyboard key presses.  
+This is an AutoHotkey script for Windows PCs. It translates ZUIKI Mascon input into keyboard input.  
 With this script, you can play games using your ZUIKI Mascon even if they don't natively support it as an input device.  
 The script consists of a .ahk file (the script itself) and a .ini configuration file.  
 It has been tested with PCSX2, DuckStation, other emulators, as well as PC games (Steam).  
@@ -21,7 +21,7 @@ There should be no need to modify the script file. The configuration file comes 
   
   ➤➤ How to use
 
-● Install AutoHotkey v1 (it must be v1; this script does not work with v2)
+● Install AutoHotkey v1.1 (might also work with v1.0). This script does not work with AutoHotkey v2.0 and above)
 
 ● Copy the .ahk script file and the .ini configuration file into the same folder. Do not rename the .ini file, as the script looks for "zuiki_config.ini" in the same folder
 
